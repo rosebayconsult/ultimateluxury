@@ -1,0 +1,807 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow, noarchive">
+<title>The Luxury of Life</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;1,9..144,300;1,9..144,400&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,500;1,7..72,400&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#12161C;
+    --ink-2:#181D25;
+    --ink-3:#1E242D;
+    --paper:#EDE7DD;
+    --muted:#8B93A1;
+    --muted-2:#5A6270;
+    --accent:#7A8B6F;
+    --accent-dim:rgba(122,139,111,0.15);
+    --line:rgba(237,231,221,0.08);
+    --line-strong:rgba(237,231,221,0.15);
+    --nav-w:240px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html{scroll-behavior:smooth;}
+  body{
+    background:var(--ink);
+    color:var(--paper);
+    font-family:'Literata',serif;
+    font-size:18px;
+    line-height:1.8;
+    -webkit-font-smoothing:antialiased;
+    min-height:100vh;
+  }
+  ::selection{background:var(--accent);color:var(--ink);}
+
+  /* ── Breath line ── */
+  .breath-line{
+    height:1px;
+    background:linear-gradient(to right, transparent, var(--line-strong), transparent);
+    margin:56px auto;
+    max-width:320px;
+    animation:breathe 7s ease-in-out infinite;
+    transform-origin:center;
+  }
+  @keyframes breathe{
+    0%,100%{max-width:120px;opacity:0.3;}
+    50%{max-width:320px;opacity:0.9;}
+  }
+  @media(prefers-reduced-motion:reduce){
+    .breath-line{animation:none;max-width:220px;opacity:0.5;}
+  }
+
+  /* ── Gate ── */
+  #gate{
+    min-height:100vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding:32px;
+  }
+  .gate-box{max-width:360px;width:100%;text-align:center;}
+  .gate-mark{
+    font-family:'Space Mono',monospace;
+    font-size:10px;
+    letter-spacing:0.35em;
+    text-transform:uppercase;
+    color:var(--muted-2);
+    margin-bottom:32px;
+  }
+  .gate-title{
+    font-family:'Fraunces',serif;
+    font-weight:300;
+    font-size:1.5rem;
+    color:var(--paper);
+    margin-bottom:12px;
+  }
+  .gate-sub{
+    font-family:'Literata',serif;
+    font-style:italic;
+    font-size:0.9rem;
+    color:var(--muted);
+    margin-bottom:40px;
+    line-height:1.6;
+  }
+  #gateForm{display:flex;flex-direction:column;gap:12px;}
+  #passInput{
+    background:transparent;
+    border:none;
+    border-bottom:1px solid var(--line-strong);
+    color:var(--paper);
+    font-family:'Literata',serif;
+    font-size:1rem;
+    text-align:center;
+    padding:12px 4px;
+    letter-spacing:0.1em;
+    outline:none;
+    transition:border-color 0.3s;
+  }
+  #passInput:focus{border-bottom-color:var(--accent);}
+  #passInput::placeholder{color:var(--muted);opacity:0.5;}
+  #gateBtn{
+    background:transparent;
+    border:1px solid var(--line-strong);
+    color:var(--muted);
+    font-family:'Space Mono',monospace;
+    font-size:10px;
+    letter-spacing:0.25em;
+    text-transform:uppercase;
+    padding:14px 24px;
+    cursor:pointer;
+    transition:border-color 0.3s,color 0.3s;
+    margin-top:8px;
+  }
+  #gateBtn:hover{border-color:var(--accent);color:var(--accent);}
+  #gateError{
+    font-family:'Space Mono',monospace;
+    font-size:10px;
+    letter-spacing:0.05em;
+    color:#9B6B65;
+    height:16px;
+    margin-top:4px;
+    opacity:0;
+    transition:opacity 0.3s;
+  }
+  #gateError.show{opacity:1;}
+
+  /* ── Book shell ── */
+  #book{display:none;}
+  #book.visible{display:flex;min-height:100vh;}
+
+  /* ── Sidebar nav ── */
+  #sidebar{
+    width:var(--nav-w);
+    min-width:var(--nav-w);
+    background:var(--ink-2);
+    border-right:1px solid var(--line);
+    position:fixed;
+    top:0;
+    left:0;
+    height:100vh;
+    overflow-y:auto;
+    display:flex;
+    flex-direction:column;
+    z-index:100;
+    transform:translateX(0);
+    transition:transform 0.3s ease;
+  }
+  #sidebar::-webkit-scrollbar{width:3px;}
+  #sidebar::-webkit-scrollbar-track{background:transparent;}
+  #sidebar::-webkit-scrollbar-thumb{background:var(--line-strong);}
+  .sidebar-head{
+    padding:32px 24px 20px;
+    border-bottom:1px solid var(--line);
+  }
+  .sidebar-book-title{
+    font-family:'Fraunces',serif;
+    font-weight:300;
+    font-size:0.95rem;
+    color:var(--paper);
+    line-height:1.3;
+    margin-bottom:6px;
+  }
+  .sidebar-author{
+    font-family:'Space Mono',monospace;
+    font-size:9px;
+    letter-spacing:0.2em;
+    text-transform:uppercase;
+    color:var(--muted-2);
+  }
+  .sidebar-nav{padding:16px 0 32px;}
+  .nav-cover{
+    display:block;
+    padding:12px 24px;
+    font-family:'Space Mono',monospace;
+    font-size:9px;
+    letter-spacing:0.2em;
+    text-transform:uppercase;
+    color:var(--muted-2);
+    text-decoration:none;
+    transition:color 0.2s;
+    cursor:pointer;
+    background:none;
+    border:none;
+    width:100%;
+    text-align:left;
+  }
+  .nav-cover:hover{color:var(--muted);}
+  .nav-divider{
+    height:1px;
+    background:var(--line);
+    margin:8px 24px 12px;
+  }
+  .nav-item{
+    display:flex;
+    align-items:flex-start;
+    gap:12px;
+    padding:10px 24px;
+    cursor:pointer;
+    text-decoration:none;
+    transition:background 0.2s;
+    border-left:2px solid transparent;
+  }
+  .nav-item:hover{background:var(--ink-3);}
+  .nav-item.active{
+    border-left-color:var(--accent);
+    background:var(--accent-dim);
+  }
+  .nav-num{
+    font-family:'Space Mono',monospace;
+    font-size:9px;
+    color:var(--muted-2);
+    min-width:18px;
+    padding-top:3px;
+    flex-shrink:0;
+  }
+  .nav-title{
+    font-family:'Literata',serif;
+    font-size:0.82rem;
+    color:var(--muted);
+    line-height:1.4;
+    transition:color 0.2s;
+  }
+  .nav-item:hover .nav-title,.nav-item.active .nav-title{color:var(--paper);}
+  .nav-item.pending .nav-title{color:var(--muted-2);font-style:italic;}
+
+  /* ── Mobile nav toggle ── */
+  #navToggle{
+    display:none;
+    position:fixed;
+    top:16px;
+    left:16px;
+    z-index:200;
+    background:var(--ink-2);
+    border:1px solid var(--line-strong);
+    color:var(--muted);
+    font-family:'Space Mono',monospace;
+    font-size:10px;
+    padding:8px 12px;
+    cursor:pointer;
+    letter-spacing:0.1em;
+  }
+  #navOverlay{
+    display:none;
+    position:fixed;
+    inset:0;
+    background:rgba(0,0,0,0.5);
+    z-index:90;
+  }
+
+  /* ── Main content ── */
+  #main{
+    margin-left:var(--nav-w);
+    flex:1;
+    min-height:100vh;
+  }
+  .book-wrap{
+    max-width:680px;
+    margin:0 auto;
+    padding:80px 48px 140px;
+  }
+
+  /* ── Cover section ── */
+  .cover{
+    text-align:center;
+    padding:40px 0 20px;
+    min-height:60vh;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+  }
+  .cover-eyebrow{
+    font-family:'Space Mono',monospace;
+    font-size:10px;
+    letter-spacing:0.35em;
+    text-transform:uppercase;
+    color:var(--muted-2);
+    margin-bottom:32px;
+  }
+  .cover-title{
+    font-family:'Fraunces',serif;
+    font-weight:300;
+    font-size:clamp(2.8rem,8vw,4.2rem);
+    line-height:1.05;
+    color:var(--paper);
+    margin-bottom:28px;
+    letter-spacing:-0.01em;
+  }
+  .cover-title em{
+    font-style:italic;
+    color:var(--accent);
+    font-weight:300;
+  }
+  .cover-thesis{
+    font-family:'Literata',serif;
+    font-style:italic;
+    font-size:1rem;
+    line-height:1.75;
+    color:var(--muted);
+    max-width:440px;
+    margin:0 auto 36px;
+  }
+  .cover-author{
+    font-family:'Space Mono',monospace;
+    font-size:10px;
+    letter-spacing:0.2em;
+    text-transform:uppercase;
+    color:var(--muted-2);
+  }
+
+  /* ── Chapter sections ── */
+  .chapter-section{
+    padding:80px 0 60px;
+    border-top:1px solid var(--line);
+  }
+  .chapter-eyebrow{
+    font-family:'Space Mono',monospace;
+    font-size:10px;
+    letter-spacing:0.35em;
+    text-transform:uppercase;
+    color:var(--muted-2);
+    margin-bottom:20px;
+  }
+  .chapter-title{
+    font-family:'Fraunces',serif;
+    font-weight:300;
+    font-size:clamp(1.9rem,5vw,2.8rem);
+    line-height:1.1;
+    color:var(--paper);
+    margin-bottom:48px;
+    letter-spacing:-0.01em;
+  }
+  .chapter-title em{
+    font-style:italic;
+    color:var(--accent);
+  }
+
+  /* ── Prose ── */
+  .prose p{
+    margin-bottom:1.6em;
+    color:var(--paper);
+    font-size:1rem;
+    line-height:1.85;
+  }
+  .prose p:last-child{margin-bottom:0;}
+  .prose em{font-style:italic;}
+  .prose strong{font-weight:500;}
+
+  /* Stacked lines — the meal/conversation/child pattern */
+  .prose .stack{
+    margin:2em 0;
+    padding-left:28px;
+    border-left:1px solid var(--line-strong);
+  }
+  .prose .stack p{
+    margin-bottom:0.4em;
+    font-style:italic;
+    color:var(--muted);
+    font-size:0.96rem;
+  }
+
+  /* Pull quote / key line */
+  .prose .key-line{
+    font-family:'Fraunces',serif;
+    font-weight:300;
+    font-style:italic;
+    font-size:1.25rem;
+    line-height:1.5;
+    color:var(--paper);
+    text-align:center;
+    margin:2.5em auto;
+    max-width:480px;
+    padding:0 20px;
+  }
+
+  /* Sanskrit terms */
+  .prose .skt{
+    font-style:italic;
+    color:var(--muted);
+  }
+
+  /* ── Pending chapter ── */
+  .chapter-pending{
+    padding:80px 0 60px;
+    border-top:1px solid var(--line);
+  }
+  .pending-eyebrow{
+    font-family:'Space Mono',monospace;
+    font-size:10px;
+    letter-spacing:0.35em;
+    text-transform:uppercase;
+    color:var(--muted-2);
+    margin-bottom:20px;
+  }
+  .pending-title{
+    font-family:'Fraunces',serif;
+    font-weight:300;
+    font-style:italic;
+    font-size:clamp(1.6rem,4vw,2.2rem);
+    color:var(--muted-2);
+    margin-bottom:20px;
+  }
+  .pending-note{
+    font-family:'Literata',serif;
+    font-style:italic;
+    font-size:0.88rem;
+    color:var(--muted-2);
+  }
+
+  /* ── End matter ── */
+  .end-matter{
+    text-align:center;
+    padding:80px 0 40px;
+    border-top:1px solid var(--line);
+  }
+  .end-matter p{
+    font-family:'Space Mono',monospace;
+    font-size:10px;
+    letter-spacing:0.1em;
+    color:var(--muted-2);
+    line-height:2;
+  }
+
+  /* ── Responsive ── */
+  @media(max-width:768px){
+    #sidebar{transform:translateX(-100%);}
+    #sidebar.open{transform:translateX(0);}
+    #navToggle{display:block;}
+    #navOverlay.show{display:block;}
+    #main{margin-left:0;}
+    .book-wrap{padding:60px 24px 100px;}
+  }
+  @media(max-width:480px){
+    .book-wrap{padding:56px 18px 90px;}
+  }
+
+  /* ── Reading progress bar ── */
+  #progress{
+    position:fixed;
+    top:0;
+    left:var(--nav-w);
+    right:0;
+    height:2px;
+    background:var(--accent);
+    transform-origin:left;
+    transform:scaleX(0);
+    z-index:50;
+    transition:transform 0.1s linear;
+  }
+  @media(max-width:768px){#progress{left:0;}}
+</style>
+</head>
+<body>
+
+<!-- Gate -->
+<div id="gate">
+  <div class="gate-box">
+    <div class="gate-mark">◈</div>
+    <h1 class="gate-title">This is a private page</h1>
+    <p class="gate-sub">Not part of the public site.<br>Enter the passphrase to continue.</p>
+    <form id="gateForm">
+      <input type="password" id="passInput" placeholder="passphrase" autocomplete="off" autocapitalize="off" spellcheck="false">
+      <button type="submit" id="gateBtn">Enter</button>
+      <div id="gateError">That isn't it.</div>
+    </form>
+  </div>
+</div>
+
+<!-- Reading progress -->
+<div id="progress"></div>
+
+<!-- Nav toggle (mobile) -->
+<button id="navToggle" aria-label="Menu">☰ Contents</button>
+<div id="navOverlay"></div>
+
+<!-- Book -->
+<div id="book">
+
+  <!-- Sidebar -->
+  <nav id="sidebar" aria-label="Book navigation">
+    <div class="sidebar-head">
+      <div class="sidebar-book-title">The Luxury<br>of Life</div>
+      <div class="sidebar-author">Ashish Basnet</div>
+    </div>
+    <div class="sidebar-nav">
+      <a class="nav-cover" onclick="scrollToSection('cover')">Cover</a>
+      <div class="nav-divider"></div>
+      <div id="navChapters"></div>
+    </div>
+  </nav>
+
+  <!-- Main -->
+  <main id="main">
+    <div class="book-wrap">
+
+      <!-- Cover -->
+      <section class="cover" id="cover">
+        <div class="cover-eyebrow">A Private Manuscript</div>
+        <h1 class="cover-title">The Luxury<br>of <em>Life</em></h1>
+        <p class="cover-thesis">"The ultimate luxury in life is the freedom to think with intention when needed, and to remain peacefully thought-free when it is not."</p>
+        <div class="cover-author">Ashish Basnet</div>
+      </section>
+
+      <div class="breath-line"></div>
+
+      <!-- Chapter 1 -->
+      <section class="chapter-section" id="chapter-1">
+        <div class="chapter-eyebrow">Chapter One</div>
+        <h2 class="chapter-title">The Cost of Constant Thought</h2>
+        <div class="prose">
+          <p>You are thinking right now. You were thinking before you picked this up. You will be thinking when you put it down. And here is what nobody has told you — you didn't choose any of it.</p>
+          <p>Not one thought in the last five minutes arrived because you decided to think it. Something arrived, and you followed. Then something else arrived, and you followed that. This is not a criticism. It is simply what is happening, in almost every human mind, almost all the time. The mind produces thought the way the body produces breath — continuously, automatically, without being asked. The difference is that you know breath is automatic. You have never confused breathing with a conscious choice. But thinking? Thinking you call your self. Thinking you call who you are.</p>
+          <p>This is the confusion the entire book is about.</p>
+
+          <div class="breath-line"></div>
+
+          <p>Let's stay with it for a moment before moving on. Right now, as you read these words, there is probably a second stream running somewhere behind them. An unfinished thought from earlier. A task you haven't done. Something someone said to you that you're still turning over. A plan, a worry, a memory surfacing without invitation. You didn't summon any of it. But there it is. And if you're honest — really honest — you'd admit that this second stream is almost never quiet. That it runs through meals, through conversations, through the rare moments of beauty that life offers you. That it runs through everything.</p>
+          <p>What does it cost you?</p>
+          <p>Here is the first cost, and it is the one nobody counts: you are not here. Physically, yes. Your body is in the chair, at the table, in the room. But the part of you that experiences — that actually receives what is in front of you — is elsewhere. It is in the past, rehearsing what already happened. It is in the future, rehearsing what hasn't happened yet. It is in the elaborate courtroom of the mind, making arguments to an audience that isn't present.</p>
+
+          <div class="stack">
+            <p>The meal is eaten. You are somewhere else.</p>
+            <p>The conversation happens. You are somewhere else.</p>
+            <p>The child speaks. You are somewhere else.</p>
+          </div>
+
+          <p>This is not occasional. For most people, this is the default state of a human life. The body moves through time. The mind lives somewhere else entirely. And we call this normal.</p>
+
+          <div class="key-line">Normal is not the same as healthy.</div>
+
+          <p>Think of the last time you were genuinely at rest. Not sleeping — genuinely at rest while awake. A moment when there was no inner commentary, no pending problem, no mental rehearsal in progress. When you were simply present in the way a child is present, without agenda, without the noise.</p>
+          <p>For many people, this memory is surprisingly hard to find. They search and find moments of distraction instead — a film, a drink, a conversation — things that occupied the mind with something else so that the compulsive stream was temporarily drowned out. But that is not rest. That is replacement. The stream was still running; you just couldn't hear it over the noise.</p>
+          <p>True quiet is something different. And the fact that it is so rare tells you something important. It tells you that the mind has been running a program that was never authorized. A program running in the background, always, consuming resources you didn't choose to allocate.</p>
+
+          <div class="breath-line"></div>
+
+          <p>The <span class="skt">Yoga Sūtras</span> of Patañjali open with a line that is over two thousand years old: <span class="skt">yogaś citta-vṛtti-nirodhaḥ.</span> Yoga — meaning union, meaning the deepest possible settling into what you are — is the stilling of the fluctuations of the mind. Not the silencing of a mind that occasionally gets loud. The stilling of a mind that is constantly in motion, producing thought after thought after thought, most of it unrequested, most of it unexamined.</p>
+          <p>Patañjali wasn't writing for monks in caves. He was observing something universal about the human condition: that the mind in its ordinary state is not still. It is turbulent. And because we are identified with that turbulence — because we believe the stream of thought is who we are — we don't even notice we are drowning in it.</p>
+          <p>This teaching has been available for two thousand years. It has not made it into ordinary life. That is a cost. Not a metaphorical cost — a real one, measured in a real life.</p>
+
+          <div class="breath-line"></div>
+
+          <p>Here is a second cost, subtler than the first.</p>
+          <p>When the mind never stops, it also never genuinely creates. Real insight, real problem-solving, real originality — these do not emerge from a mind that is already full. They emerge from the gap. From the space between thoughts. From the moment the mind releases its grip and something new becomes possible.</p>
+          <p>Every tradition of human creativity has known this. Scientists speak of the solution that arrived in the shower, not at the desk. Artists speak of the work that seemed to come through them rather than from them. Athletes call it flow. In every case, the common element is the same: the compulsive mind got out of the way.</p>
+          <p>A mind that is never quiet is slowly cut off from the intelligence that requires stillness in order to function. Not the intelligence of a particular subject — you can be a brilliant engineer or a gifted writer while still thinking compulsively. But the deeper intelligence that knows what matters, that sees clearly, that acts from something other than accumulated anxiety.</p>
+
+          <div class="breath-line"></div>
+
+          <p>There is a third cost, and it is the most personal.</p>
+          <p>The compulsive mind is a suffering machine.</p>
+          <p>Not because thought itself causes suffering. Thought, used deliberately, is one of the greatest capacities a human being possesses. But thought running without a governor produces something specific: it produces the experience of being trapped inside your own head. Of problems that don't resolve because the mind keeps restating them rather than solving them. Of emotions that won't metabolize because thought keeps re-triggering them.</p>
+          <p>Buddhism calls this <span class="skt">dukkha</span> — usually translated as suffering, but more precisely: unsatisfactoriness. The quality of an axle that is slightly off-center, so that no matter how smoothly the cart moves, there is always a subtle grinding. The compulsive mind is that off-center axle. It grinds against the present because it is always elsewhere. It grinds against reality because it prefers its own version. It grinds against peace because peace requires a kind of surrender the compulsive mind cannot perform.</p>
+          <p>And we have normalized the grinding. We have called it ambition, or conscientiousness, or just the way things are.</p>
+
+          <div class="breath-line"></div>
+
+          <p>I am not asking you to stop thinking. This book is not an argument against thought.</p>
+          <p>What I am asking is something more precise: to consider the difference between thought that is chosen and thought that is compulsive. Between the mind you use and the mind that uses you.</p>
+          <p>Most people live entirely in the second condition. They have never been told the distinction exists. They have never noticed that the stream of thought running through them is not them. They have never discovered that it can be stopped. Not suppressed — stopped. Cleanly, completely, the way you turn off a tap. And that on the other side of that stopping is not emptiness, not blankness — but a quality of presence and clarity that the compulsive mind, by definition, cannot produce.</p>
+          <p>That capacity — to think when thinking serves you, and to stop completely when it doesn't — is what this book calls the switch.</p>
+
+          <div class="breath-line"></div>
+
+          <p>The question this chapter asks is not: how do I think better?</p>
+          <p>The question is: have you ever, seriously, questioned whether the thinking you do all day is something you chose?</p>
+          <p>If you haven't, this book is the beginning of that question.</p>
+          <p>The cost of constant thought is your life. Not metaphorically. Your actual life — the moments, the relationships, the clarity, the creativity, the simple animal pleasure of being here. All of it paid, daily, to a mind running a program you never agreed to run.</p>
+          <p>The switch exists. You can learn to use it.</p>
+          <p>That is what we are here to do.</p>
+        </div>
+      </section>
+
+      <div class="breath-line"></div>
+
+      <!-- Chapter 2 -->
+      <section class="chapter-section" id="chapter-2">
+        <div class="chapter-eyebrow">Chapter Two</div>
+        <h2 class="chapter-title">What <em>"Luxury"</em> Really Means</h2>
+        <div class="prose">
+          <p>You know what luxury looks like. You've seen it, wanted it, maybe touched the edge of it. The apartment with the view. The table that doesn't need a reservation because your name is enough. The flight where someone brings you a warm towel before you've even asked. The watch that tells you, without a word, that you have arrived.</p>
+          <p>These things are real. They are genuinely pleasurable. This book is not going to tell you they don't matter, or that wanting them is shallow, or that the truly enlightened person eats plain rice and needs nothing. That's not the argument.</p>
+          <p>The argument is simpler, and more unsettling: none of it is luxury. Not in the deepest sense of the word. Not in the sense that matters.</p>
+
+          <div class="breath-line"></div>
+
+          <p>Here is a person. Thirty-four years old. Built something real — a company, a career, a life that looks, from the outside, like the answer to every question they had at twenty-two. They have the apartment. They have the table. They have, by any reasonable measure, made it.</p>
+          <p>And they cannot stop thinking.</p>
+          <p>Not won't — cannot. At the dinner they worked three years to afford, the mind is running projections on next quarter. In the relationship they chose carefully and love genuinely, the mind is elsewhere. On the rare morning they sleep in, the mind starts before the eyes open. Before a single conscious choice has been made, the program is already running.</p>
+          <p>This person is not free. They are, in the most precise sense of the word, enslaved. Not to a person, not to a system — to their own mind. And the cruelty of this particular slavery is that it is invisible. There are no chains to point to. There is only the constant, compulsive movement of thought, running the show, spending the life, and calling itself you.</p>
+
+          <div class="key-line">Now tell me: where is the luxury in that?</div>
+
+          <p>The word comes from the Latin <span class="skt">luxus</span> — excess, abundance, the overflowing of what is needed. For most of human history, luxury meant having more than survival required. What we've done is take that dream of inner relief and replace it with outer objects. We've pointed at the chair and said: that's it. Get the chair. And so people spend their lives getting the chair, and sit in it, and discover — with a bewilderment they rarely admit aloud — that the relief never came. The chair is comfortable. The mind is still running.</p>
+          <p>This is not a failure of ambition. It is a failure of definition.</p>
+
+          <div class="breath-line"></div>
+
+          <p>The right thing is this: a mind that is yours.</p>
+          <p>Not a mind that runs you — a mind you run. A mind that thinks when you ask it to think, and goes quiet when you ask it to go quiet. A mind that is an instrument, not a tyrant.</p>
+          <p>That is luxury. The real kind.</p>
+          <p>I am not talking about relaxation. I am not talking about ten minutes of meditation before you go back to the grind. I am talking about a fundamental shift in the relationship between you and your own mind — so complete that the person on the other side of it is living a different life. Not a different external life. A different internal one. One in which the mind is a tool rather than a condition. One in which you are, for the first time, genuinely home.</p>
+
+          <div class="breath-line"></div>
+
+          <p>Kabir — the fifteenth-century poet who wove Hindu and Sufi threads into something entirely his own — said, roughly: what you are looking for is already inside you, but you keep looking in the market. The hunger is real. The hunger for rest, for clarity, for the feeling of being fully alive in your own life — this is not a spiritual affectation. It is a fact. Human beings are built for presence. And when we are chronically absent — when the mind is always somewhere other than here — something in us knows it, and aches.</p>
+          <p>The market offers us things for the ache. Experiences, achievements, distractions — all temporarily effective, none addressing the source. The source is a mind that does not know how to stop. Luxury is solving the problem.</p>
+
+          <div class="breath-line"></div>
+
+          <p>On one side: the person whose mind runs them. Thought arrives and they follow it. They may be entirely unaware that any other condition is possible. This is most people. This is, statistically, the overwhelming default of human experience.</p>
+          <p>On the other side: the person who has found the switch. This person also thinks — often more sharply than before. They also feel — often more fully. But thinking is something they do, not something that happens to them. And when thinking is not needed, it stops. The mind rests. Not in distraction, not in sleep — in genuine, wakeful quiet.</p>
+          <p>The distance between these two people is not talent, not intelligence, not fortune. It is a single capacity that almost nobody knows exists.</p>
+
+          <div class="breath-line"></div>
+
+          <p>I want to say something directly to you — the person who has been doing the things you were told to do, building the life you were told to want, and who has noticed, with a feeling you might not have named yet, that something is still missing.</p>
+          <p>The missing thing is not more. You already sense this.</p>
+          <p>The missing thing is you. Present. In your own life. With a mind that is yours to use rather than a mind that uses you.</p>
+          <p>That is the luxury. It was always the luxury.</p>
+
+          <div class="key-line">Everything else is furniture.</div>
+        </div>
+      </section>
+
+      <div class="breath-line"></div>
+
+      <!-- Chapters 3–10 pending -->
+      <section class="chapter-pending" id="chapter-3">
+        <div class="pending-eyebrow">Chapter Three</div>
+        <h2 class="pending-title">The Switch</h2>
+        <p class="pending-note">Still becoming — not yet written here.</p>
+      </section>
+
+      <section class="chapter-pending" id="chapter-4">
+        <div class="pending-eyebrow">Chapter Four</div>
+        <h2 class="pending-title">When Thought Is the Right Tool</h2>
+        <p class="pending-note">Still becoming — not yet written here.</p>
+      </section>
+
+      <section class="chapter-pending" id="chapter-5">
+        <div class="pending-eyebrow">Chapter Five</div>
+        <h2 class="pending-title">The Peace of Thought-Free</h2>
+        <p class="pending-note">Still becoming — not yet written here.</p>
+      </section>
+
+      <section class="chapter-pending" id="chapter-6">
+        <div class="pending-eyebrow">Chapter Six</div>
+        <h2 class="pending-title">Why the Switch Feels So Hard</h2>
+        <p class="pending-note">Still becoming — not yet written here.</p>
+      </section>
+
+      <section class="chapter-pending" id="chapter-7">
+        <div class="pending-eyebrow">Chapter Seven</div>
+        <h2 class="pending-title">Practicing the Switch</h2>
+        <p class="pending-note">Still becoming — not yet written here.</p>
+      </section>
+
+      <section class="chapter-pending" id="chapter-8">
+        <div class="pending-eyebrow">Chapter Eight</div>
+        <h2 class="pending-title">Relationships and the Switch</h2>
+        <p class="pending-note">Still becoming — not yet written here.</p>
+      </section>
+
+      <section class="chapter-pending" id="chapter-9">
+        <div class="pending-eyebrow">Chapter Nine</div>
+        <h2 class="pending-title">Suffering, Pain, and the Switch</h2>
+        <p class="pending-note">Still becoming — not yet written here.</p>
+      </section>
+
+      <section class="chapter-pending" id="chapter-10">
+        <div class="pending-eyebrow">Chapter Ten</div>
+        <h2 class="pending-title">Living the Luxury</h2>
+        <p class="pending-note">Still becoming — not yet written here.</p>
+      </section>
+
+      <div class="breath-line"></div>
+
+      <div class="end-matter">
+        <p>written here, one chapter at a time</p>
+        <p>private · unlisted · yours</p>
+      </div>
+
+    </div>
+  </main>
+</div>
+
+<script>
+  var PASSPHRASE = "aamadevaki";
+  var UNLOCK_KEY = "luxury_unlocked_v1";
+
+  var CHAPTERS = [
+    {id:"chapter-1", num:"01", title:"The Cost of Constant Thought", done:true},
+    {id:"chapter-2", num:"02", title:'What "Luxury" Really Means', done:true},
+    {id:"chapter-3", num:"03", title:"The Switch", done:false},
+    {id:"chapter-4", num:"04", title:"When Thought Is the Right Tool", done:false},
+    {id:"chapter-5", num:"05", title:"The Peace of Thought-Free", done:false},
+    {id:"chapter-6", num:"06", title:"Why the Switch Feels So Hard", done:false},
+    {id:"chapter-7", num:"07", title:"Practicing the Switch", done:false},
+    {id:"chapter-8", num:"08", title:"Relationships and the Switch", done:false},
+    {id:"chapter-9", num:"09", title:"Suffering, Pain, and the Switch", done:false},
+    {id:"chapter-10", num:"10", title:"Living the Luxury", done:false}
+  ];
+
+  function buildNav(){
+    var container = document.getElementById('navChapters');
+    var html = '';
+    CHAPTERS.forEach(function(ch){
+      html += '<a class="nav-item' + (ch.done ? '' : ' pending') + '" onclick="scrollToSection(\'' + ch.id + '\')">' +
+                '<span class="nav-num">' + ch.num + '</span>' +
+                '<span class="nav-title">' + ch.title + '</span>' +
+              '</a>';
+    });
+    container.innerHTML = html;
+  }
+
+  function scrollToSection(id){
+    var el = document.getElementById(id);
+    if(el){ el.scrollIntoView({behavior:'smooth', block:'start'}); }
+    closeSidebar();
+  }
+
+  function unlock(){
+    document.getElementById('gate').style.display = 'none';
+    document.getElementById('book').classList.add('visible');
+    buildNav();
+    setupScrollSpy();
+    setupProgress();
+  }
+
+  function setupProgress(){
+    var bar = document.getElementById('progress');
+    window.addEventListener('scroll', function(){
+      var scrolled = window.scrollY;
+      var total = document.body.scrollHeight - window.innerHeight;
+      var pct = total > 0 ? scrolled / total : 0;
+      bar.style.transform = 'scaleX(' + pct + ')';
+    }, {passive:true});
+  }
+
+  function setupScrollSpy(){
+    var sections = [];
+    CHAPTERS.forEach(function(ch){
+      var el = document.getElementById(ch.id);
+      if(el) sections.push({id:ch.id, el:el});
+    });
+    sections.unshift({id:'cover', el:document.getElementById('cover')});
+
+    window.addEventListener('scroll', function(){
+      var scrollY = window.scrollY + 120;
+      var current = 'cover';
+      sections.forEach(function(s){
+        if(s.el && s.el.offsetTop <= scrollY){ current = s.id; }
+      });
+      document.querySelectorAll('.nav-item').forEach(function(item){
+        item.classList.remove('active');
+      });
+      document.querySelectorAll('.nav-cover').forEach(function(item){
+        item.style.color = '';
+      });
+      if(current === 'cover'){
+        document.querySelectorAll('.nav-cover').forEach(function(item){
+          item.style.color = 'var(--muted)';
+        });
+      } else {
+        var idx = CHAPTERS.findIndex(function(ch){ return ch.id === current; });
+        if(idx >= 0){
+          var navItems = document.querySelectorAll('.nav-item');
+          if(navItems[idx]) navItems[idx].classList.add('active');
+        }
+      }
+    }, {passive:true});
+  }
+
+  // Mobile sidebar
+  function openSidebar(){
+    document.getElementById('sidebar').classList.add('open');
+    document.getElementById('navOverlay').classList.add('show');
+  }
+  function closeSidebar(){
+    document.getElementById('sidebar').classList.remove('open');
+    document.getElementById('navOverlay').classList.remove('show');
+  }
+  document.getElementById('navToggle').addEventListener('click', openSidebar);
+  document.getElementById('navOverlay').addEventListener('click', closeSidebar);
+
+  // Gate
+  if(localStorage.getItem(UNLOCK_KEY) === '1'){ unlock(); }
+
+  document.getElementById('gateForm').addEventListener('submit', function(e){
+    e.preventDefault();
+    var val = document.getElementById('passInput').value.trim();
+    var err = document.getElementById('gateError');
+    if(val === PASSPHRASE){
+      try{ localStorage.setItem(UNLOCK_KEY,'1'); } catch(e2){}
+      unlock();
+    } else {
+      err.classList.add('show');
+      document.getElementById('passInput').value = '';
+      setTimeout(function(){ err.classList.remove('show'); }, 2200);
+    }
+  });
+</script>
+</body>
+</html>
