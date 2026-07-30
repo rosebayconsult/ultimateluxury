@@ -550,4 +550,28 @@ The book can hold both registers — the direct confrontation of Chapter 1, the 
 *Possible home: Chapter 2 (What Luxury Really Means), Chapter 6 (Why the Switch Feels So Hard)*
 
 ---
+
+## There Is No Person — Only Patterns of Mind. There Is No Mind — Only One Thought After Another.
+
+*Ashish's words, exactly as said.*
+
+This dismantles the framework most spiritual teachers use. Tolle says *watch your mind.* Ramana says *find the mind.* But this goes more fundamental than both.
+
+There is no mind to watch. There is no mind to find.
+
+There is only this thought. Then this thought. Then this thought. Arising and passing. Each one discrete, each one momentary. What we call "the mind" is the story we tell about the sequence — the same way we call a river "the river" when there is no river, only water that was never the same water twice.
+
+And if there is no mind — only a succession of thoughts — then the one who suffers from the mind also doesn't exist as a fixed thing. The person who believes they are trapped by their thoughts is itself just another thought. The sufferer and the suffering arise together, moment by moment, and pass together. There is no one home to be imprisoned.
+
+This is precisely what the Buddha meant by *anatta* — no-self. Not that you don't exist. But that what you call *you* is a pattern, not a thing. A flame that appears continuous but is burning new fuel every instant. The flame of last night is not the flame of this morning. But we call it the same flame. We call it *our* flame.
+
+**The only question that remains:** if the person is just a pattern of thoughts, and thoughts are just momentary arisings — what is aware of them? What notices the succession? What is here before the first thought and after the last?
+
+That question cannot be answered by a thought.
+
+**For the book:** the switch is not a person switching anything. It is the pattern momentarily recognising itself as a pattern. And in that recognition, dissolving.
+
+*Possible home: Chapter 3 (The Switch) — at its heart. Chapter 5 (The Peace of Thought-Free). Chapter 10 (Living the Luxury) as its philosophical completion.*
+
+---
 *Last updated: as insights arrive. Keep adding.*
