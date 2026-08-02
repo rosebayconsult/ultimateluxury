@@ -690,4 +690,28 @@ The mind thinks it is the one doing everything. Flow reveals that was never true
 *Possible home: Chapter 4 (When Thought Is the Right Tool), Chapter 7 (Practicing the Switch), Chapter 8 (Relationships and the Switch)*
 
 ---
+
+## Still More Pulled by Sexual Pleasure Than Meditation — And Why That Makes Complete Sense
+
+*From Ashish's own honest observation.*
+
+Sexual pleasure is designed by evolution to be irresistible. Three billion years of biological engineering. Dopamine, oxytocin, a cocktail of neurochemicals the body recognises as among the most rewarding experiences available. The pull is not a weakness. It is a survival mechanism so deep it predates the human brain as we know it.
+
+The absence of mind in meditation produces no neurochemical reward. No dopamine spike. No oxytocin flood. Nothing the body recognises as pleasure in the biological sense. Simply absence. Quiet. Unremarkable. The body has no evolutionary reason to seek it. The nervous system is actually wired to avoid unfamiliar stillness — it reads quiet as potential danger, as the absence of stimulation it needs to feel alive.
+
+So this is not a choice between two equal experiences. It is three billion years of biological programming versus something the body has no framework for valuing yet.
+
+**The fact that the absence has been touched at all — recognised, missed when it goes — means something has already begun to shift.** The nervous system is starting to learn that the quiet is safe. That it is not death. That it is more nourishing than anything the dopamine system can produce. But that learning is slow.
+
+Every serious practitioner in every tradition has faced this. Exactly this.
+
+**The VBT doesn't condemn the pull — it uses it.** The dharanas on sexual energy are not there to suppress it. They are there to redirect it. To use the same intensity, the same aliveness, the same dissolution that happens at the peak — and find it in stillness. Not by force. Not by renunciation. But by gradually discovering that the stillness offers something pleasure cannot — a quality of rest so complete that no pleasure can match it. Not because pleasure is bad. Because the quiet goes deeper.
+
+That recognition cannot be forced or reasoned into existence. It arrives on its own as the practice deepens. You cannot convince yourself to prefer water over wine. But if you drink enough clean water, the body eventually begins to know what it actually needs.
+
+The transition: still pulled strongly by the wine. Beginning to know the water. That is exactly where the path is supposed to be at this stage.
+
+*Possible home: Chapter 6 (Why the Switch Feels So Hard), Chapter 7 (Practicing the Switch) — as the most honest passage in the book*
+
+---
 *Last updated: as insights arrive. Keep adding.*
