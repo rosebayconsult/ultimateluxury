@@ -644,4 +644,50 @@ The sexual stopping always brings the mind back louder — immediately calculati
 *Possible home: Chapter 5 (The Peace of Thought-Free), Chapter 7 (Practicing the Switch)*
 
 ---
+
+## What Else Is Close to Presence/Absence — Besides Sexual Pleasure
+
+All share the same structure: the mind stops involuntarily, caught off guard by something that demands complete attention or complete release.
+
+**Deep sleep without dreams** — the most complete and most universal. Every human being touches no-thing every night. Completely. Without exception. The problem is there is no one there to notice it. Patanjali mentions this. The VBT mentions this. The most complete version — but unconscious.
+
+**The moment before sleep** — the hypnagogic threshold. The mind loosening, thoughts becoming strange and nonlinear, the grip releasing. Many VBT dharanas point exactly here. Conscious enough to notice, relaxed enough that the mind is no longer running its program.
+
+**Physical shock or sudden danger** — a near-accident, a sudden loud sound. The mind goes completely blank for a fraction of a second before the survival response kicks in. Pure presence — but through fear rather than release.
+
+**Deep absorption in skilled work — flow** — the craftsman so absorbed the self disappears. The musician mid-performance. The surgeon mid-operation. The coder in the zone. The commentary stops and something else takes over. Action without the actor.
+
+**Vastness in nature** — the edge of the ocean, a mountain range, a clear night sky full of stars. The mind briefly cannot generate its usual content because the scale exceeds its frameworks. It goes quiet from being overwhelmed rather than from being released.
+
+**Genuine laughter** — the moment of real, unexpected laughter — not polite laughter but the kind that takes you by surprise. For a fraction of a second the mind stops completely. Only the laughter. Nothing else.
+
+**Music at its peak** — not listening while thinking about other things, but the moment a piece of music lands so completely that everything else disappears.
+
+**The moment after crying** — after genuine grief has moved through completely, not suppressed but fully expressed, there is sometimes remarkable stillness. The body spent, the mind empty, something very quiet present.
+
+All of these are accidental meditations. Moments the mind was ambushed into stopping. The VBT takes each natural opening and says — here is how to enter that deliberately. Here is how to find that door without waiting for the accident.
+
+*Possible home: Chapter 7 (Practicing the Switch), Chapter 3 (The Switch)*
+
+---
+
+## In Flow, Mind Is Absent and Consciousness Is Dancing, Playing, Doing Surgery
+
+*Ashish's exact words — more precise than anything Csikszentmihalyi ever wrote.*
+
+Csikszentmihalyi described flow from the outside — measuring performance, mapping conditions, cataloguing characteristics. He never quite named what was actually happening on the inside.
+
+What was happening: the mind — with its commentary, self-monitoring, doubt, pride, fear of failure — steps back. What remains is not nothing. Consciousness is still there. Fully. Completely. But now operating without the interference of the small self. Without the running commentary of *am I doing this right, what will they think, what comes next, am I good enough.*
+
+The surgeon's hands know where to go. The musician's fingers find the note before the mind could have calculated it. The craftsman's eye sees the flaw before the brain has processed the information. Something precise, intelligent, responsive is operating — but it is not the thinking mind. That something is consciousness. Playing. Working. Doing surgery.
+
+**This is karma yoga from the inside.** Krishna doesn't tell Arjuna to think more carefully. He tells him to act from the place where the small self is not running the action. Flow is that place — stumbled into accidentally by athletes and artists and surgeons. Karma yoga is the deliberate cultivation of the same condition.
+
+**The answer to the reader's inevitable question** — if the mind is absent, who is doing the work? Something more capable than the mind. Consciousness without the mind's interference performs better than consciousness with it. Every flow state in human history is evidence of this.
+
+The mind thinks it is the one doing everything. Flow reveals that was never true.
+
+*Possible home: Chapter 4 (When Thought Is the Right Tool), Chapter 7 (Practicing the Switch), Chapter 8 (Relationships and the Switch)*
+
+---
 *Last updated: as insights arrive. Keep adding.*
