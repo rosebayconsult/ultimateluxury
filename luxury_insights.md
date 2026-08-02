@@ -620,4 +620,28 @@ The missing it afterwards is the mind recognising that it had briefly touched wh
 *Possible home: Chapter 5 (The Peace of Thought-Free), Chapter 3 (The Switch), Chapter 10 (Living the Luxury)*
 
 ---
+
+## Why People Compare Presence/Absence to Sexual Pleasure
+
+Because it is the closest most people have come to it.
+
+In ordinary life the mind almost never stops. But there are a handful of moments where it stops involuntarily — where the grip loosens without effort or intention. One of the most common is the peak of sexual pleasure.
+
+In that instant — not the buildup, not the anticipation, but the peak itself — the compulsive mind briefly ceases. No tomorrow, no yesterday, no problem, no self-image to maintain. Just the raw immediacy of sensation so complete that thought cannot find a foothold. The person who was worrying about the mortgage five minutes ago is simply gone.
+
+It is involuntary. It is brief. And for most people it is the most complete cessation of mental activity they regularly experience while awake.
+
+So when teachers describe the meditative state and people reach for a comparison, that is the comparison they find. Not because the experiences are the same in nature — they are not. But because the structural quality is similar. The mind stopped. Something else was there. And it felt like relief.
+
+**The VBT knows this.** Several of its 112 dharanas specifically use sexual energy and the moment of orgasm as a doorway. Not because sexuality is the point — but because that involuntary cessation is already familiar. The dharana says: that stopping you have already experienced. Now find it without the stimulus. Find it on purpose. Find it in stillness.
+
+**The problem with the comparison:** it misleads. Sex produces the stopping through intensity — the body so overwhelmed the mind temporarily cannot run. Meditation produces the stopping through the opposite — such complete relaxation that the mind has nothing to grab onto. Same destination. Opposite direction of travel.
+
+The sexual stopping always brings the mind back louder — immediately calculating, comparing, narrating. The meditative stopping leaves a different quality. Quieter. More stable. The mind returns but more gently, less urgently.
+
+**Ashish's description — simple absence, nothing dramatic, missing it only afterwards — is beyond the sexual comparison entirely.** That comparison belongs to early stages when the stopping is still a shock, still dramatic. What he describes is the stopping becoming familiar. Ordinary. The natural state recognised as natural rather than as an event.
+
+*Possible home: Chapter 5 (The Peace of Thought-Free), Chapter 7 (Practicing the Switch)*
+
+---
 *Last updated: as insights arrive. Keep adding.*
