@@ -931,4 +931,29 @@ The seeing is everything. The rest takes care of itself.
 *Possible home: Chapter 7 (Practicing the Switch)*
 
 ---
+
+## Every Practice Is Compounding
+
+*Ashish's exact words:*
+*"Practice of being distracted. Practice of being focused."*
+
+Both compound equally.
+
+Every time the mind wanders and you don't notice — that's a repetition. A strengthening of the wandering habit. Every time you follow the argument, believe the blame, run the should-do loop without catching it — that's a rep. The distraction muscle gets stronger.
+
+Every time you notice — every time you catch the mind mid-argument and return, even once, even imperfectly — that's a rep in the other direction. The noticing muscle gets stronger.
+
+**This is why the practice doesn't require formal meditation.** Every moment of ordinary life is a repetition of one kind or the other. You are always practicing something. The only question is which habit you are compounding.
+
+The person who says they have no time to meditate is still practicing — practicing distraction. Thirty years of following every thought, believing every story, reacting to every pull — that is thirty years of compounding. The groove is deep. Not because the person is weak but because they have been practicing, without knowing it, every single day.
+
+**The return matters more than the wandering.** The wandering is automatic — three billion years of biological programming. But the return is chosen. And every chosen return compounds differently. It builds something the wandering cannot build.
+
+The Zen tradition counts this precisely. Not how long you sat. Not how deep the silence was. But how many times you returned. Each return is a complete practice. Each return compounds.
+
+**For the reader who will sit down, have the mind wander in thirty seconds, and conclude they are bad at this:** they are not bad at it. They don't yet understand what the practice actually is. The wandering is not the failure. The return is the practice. And every return — however small, however imperfect — is compounding something real.
+
+*Possible home: Chapter 7 (Practicing the Switch) — as its opening argument. One of the most practically useful insights in the book.*
+
+---
 *Last updated: as insights arrive. Keep adding.*
