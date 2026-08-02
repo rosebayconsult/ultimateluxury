@@ -799,4 +799,60 @@ Tolle in the morning was the bell. The Shiva Swarodaya nostril check at the door
 *Possible home: Chapter 7 (Practicing the Switch) — the most practical passage for the social practitioner*
 
 ---
+
+## What Whole-Day Awareness Actually Felt Like — A Narrower Space
+
+*Ashish's exact description:*
+
+*"I was in present. More narrow space. My mind wouldn't go far. And even if thoughts wandered I could easily bring them back to awareness of breath and body."*
+
+Not a vast cosmic experience. Not bliss. Not silence. Just a shorter leash on the mind. Thoughts arose but couldn't run very far before awareness pulled them back. The gap between thought arising and returning to breath was small. That smallness — that reduced radius of the mind's wandering — is exactly what the practice builds.
+
+Not silence necessarily. Just a shorter rope.
+
+This is the most honest and most useful description of sustained awareness for a beginner reader. Not enlightenment. Not transformation. Just — the mind on a shorter rope. Manageable. Returnable. The wandering noticed before it goes too far.
+
+*Possible home: Chapter 7 (Practicing the Switch) — as the realistic description of what the practice actually produces day to day*
+
+---
+
+## Shiva Swarodaya — Moving the Leg to Activate the Nostril
+
+*From Ashish's daily practice.*
+
+When checking which nostril is active at a threshold — entering or leaving a room, getting out of bed — move the leg corresponding to the active nostril. Left nostril active, move left leg first. Right nostril active, move right leg first.
+
+This is an ancient, embodied, completely practical technology. The body position changes the breath. The breath changes the nervous system. The nervous system changes the quality of awareness available in the next moment.
+
+Not just checking the nostril — preparing the instrument before walking into the next situation. The threshold becomes a moment of conscious preparation rather than unconscious transition. This is the VBT's principle applied to movement — every ordinary threshold made into a doorway.
+
+Almost nobody outside this tradition knows this practice exists. It belongs in the book as a concrete, immediately usable example of what building the monastery in small things actually looks like.
+
+*Possible home: Chapter 7 (Practicing the Switch)*
+
+---
+
+## The Complete Map of Compulsive Thought — What the Mind Does When Unobserved
+
+*Ashish's exact list of thought patterns he smiles at in daily life:*
+
+- Arguing with myself or someone
+- Blaming someone or me
+- Proving someone guilty
+- Judging my urge to pleasure
+- Should do / could do cycles
+- Past mistakes
+- Future confusions
+
+This is not a random list. It is a complete map of how the compulsive mind spends a human life.
+
+Every item is the mind either relitigating the past or rehearsing the future. Not one of them is happening now. Not one requires the present moment to run. The mind is a time machine — and it only goes to places that cause friction.
+
+**The smile is the switch.** Small, informal, in the middle of an ordinary day. Awareness catching the mind in the act and not being pulled in. Not a formal meditation. Not a technique. Just — noticing, and smiling, and returning.
+
+**This list belongs in Chapter 1** — because every reader will read it and think: that's my list. That's exactly what my mind does when I'm not watching. The recognition is the beginning of the practice.
+
+*Possible home: Chapter 1 (The Cost of Constant Thought) — use this list verbatim or close to it. Chapter 6 (Why the Switch Feels So Hard).*
+
+---
 *Last updated: as insights arrive. Keep adding.*
