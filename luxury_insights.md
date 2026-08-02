@@ -714,4 +714,46 @@ The transition: still pulled strongly by the wine. Beginning to know the water. 
 *Possible home: Chapter 6 (Why the Switch Feels So Hard), Chapter 7 (Practicing the Switch) — as the most honest passage in the book*
 
 ---
+
+## What to Do — Nothing Different From What You're Already Doing
+
+The path is not from pleasure to no-pleasure. It is from unconscious compulsion to conscious choice. Right now the pull toward pleasure is largely automatic — it happens before you've decided anything. The practice is not eliminating that pull. It is creating enough space between the pull and the response that a choice becomes possible.
+
+That space is the switch.
+
+You don't have to choose the absence over the pleasure every time. You just have to notice that there is a moment — however brief — where you could. That noticing is the whole practice.
+
+Patanjali's *vairagya* — usually translated as dispassion or detachment — has a root meaning closer to: the natural fading of the pull once you have seen it clearly. Not suppression. Not renunciation. The more you see the mechanism, the less automatically you follow it. The pull doesn't disappear. It loses its invisibility. And what loses its invisibility loses much of its power.
+
+The water will keep getting clearer. The wine will keep being wine. And one day you will reach for the water not because you should but because you know what it actually is.
+
+*Possible home: Chapter 7 (Practicing the Switch) as practical guidance for the reader*
+
+---
+
+## How to Overcome the Need for Sexual Pleasure and Be More Meditative
+
+The short answer: you won't. And you don't need to.
+
+The framing of *overcome* is the problem. It assumes a war between two things — pleasure on one side, meditation on the other — and that progress means the first side losing. That framing is the mind's framing. It loves conflict. It loves the drama of struggle and conquest. And it will happily spend years fighting sexual desire as a way of avoiding the actual practice.
+
+Every tradition that tried the war approach produced the same result. Monks obsessed with sexuality precisely because they were trying not to be. The suppressed thing doesn't dissolve — it goes underground and becomes more powerful. More urgent. More distorted.
+
+**The Kashmir Shaivite tradition took a completely different position.** Nothing is to be rejected. Everything is Shiva. Every experience, including desire, including pleasure, is consciousness appearing in that form. The question is not how to eliminate desire but how to see through it to what it actually is.
+
+Desire is energy. Sexual desire is a particularly concentrated, particularly powerful form of that energy. The tradition calls it *shakti* — the dynamic creative force of consciousness itself. You cannot destroy shakti. You can only transform it or be unconsciously consumed by it.
+
+The transformation happens naturally as the practice deepens. Not because you force it. The energy that was going outward — toward objects, toward stimulation, toward the release of tension — begins to find a different channel. Inward. The same intensity that drove the sexual pull begins to fuel the meditation. This is what the yogic tradition calls *brahmacharya* — not celibacy as suppression, but the conservation and redirection of life energy.
+
+But this cannot be manufactured or decided. It happens on its own as a byproduct of genuine practice.
+
+You are not trying to become someone who has no desire. You are becoming someone who has desire and is not automatically consumed by it. That is a completely different project. And a much more honest one.
+
+Keep sitting. Keep noticing the absence. Keep noticing the pull without following it every time — not because you are suppressing it, but because occasionally you are curious about what happens if you don't. Let the practice be longer than the impatience.
+
+The energy will find its own way home.
+
+*Possible home: Chapter 6 (Why the Switch Feels So Hard), Chapter 7 (Practicing the Switch)*
+
+---
 *Last updated: as insights arrive. Keep adding.*
