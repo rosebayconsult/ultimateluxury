@@ -781,4 +781,22 @@ That is the whole teaching.
 *Possible home: Chapter 7 (Practicing the Switch), Chapter 6 (Why the Switch Feels So Hard)*
 
 ---
+
+## External Reminders as Recalibration Tools — Not Crutches
+
+*From Ashish's own experience: stopped listening to Eckhart Tolle daily and lost the quality of awareness he had built over months.*
+
+Tolle was functioning as a daily reminder — not because the words were adding new information, but because hearing that voice, that register, that quality of attention, was recalibrating the listener's own. Like a tuning fork. You don't need to learn anything new. You just need the frequency.
+
+**The monk in a monastery doesn't need a podcast** because the entire environment is the reminder. The bell rings every hour. The silence at meals. The other practitioners. Everything points back. For the social person living alone, that environmental support doesn't exist. So it must be built deliberately.
+
+Tolle in the morning was the bell. The Shiva Swarodaya nostril check at the door is another bell. These are not signs of weakness in the practice. They are the intelligent adaptation of the practice to a life without monastery walls.
+
+**The diagnosis came from the awareness itself.** The same awareness that could smile at thought patterns a month ago identified exactly what shifted. It didn't go anywhere. It was right there, noticing. You're not lost. You stopped ringing the bell.
+
+**For the book and for the reader:** find your bell. Not as dependency but as recalibration. A voice, a practice, a threshold, a reminder that points you back. The social practitioner needs to build the monastery in the small things — the morning voice, the door check, the breath before a meeting, the pause before a meal. Each one a bell. Each one bringing the frequency back.
+
+*Possible home: Chapter 7 (Practicing the Switch) — the most practical passage for the social practitioner*
+
+---
 *Last updated: as insights arrive. Keep adding.*
