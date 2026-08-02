@@ -893,4 +893,42 @@ Everything drafted, everything in this insights file, all of it is in service of
 *These five sentences should be visible to the author while writing every chapter.*
 
 ---
+
+## Physically Present. Mentally Absent. — Think Like Shiva and Buddha.
+
+*Ashish's formulation. Four words that contain the entire teaching.*
+
+Shiva on the mountain. Buddha under the tree. The body completely still, completely here. The mind not elsewhere — not planning, not replaying, not constructing — simply absent. Not absent the way a distracted person is absent. Absent the way a clear sky is absent of clouds.
+
+**The physical presence is not incidental.** The body is always here. It cannot be anywhere else. It has no memory, no imagination, no tomorrow. It is permanently, unavoidably in the present moment. The body is already enlightened — it never left.
+
+**The mental absence is not emptiness.** It is the mind no longer imposing itself on what the body is already receiving. No commentary on the sensation. No story about the experience. No judgment of the moment. Just — the moment, arriving into a consciousness that is not cluttering it with thought.
+
+Shiva sits. Not meditating on something. Not achieving something. The body here, the mind not running its program. Consciousness without content. Presence without agenda.
+
+Buddha the same. The enlightenment under the Bodhi tree was not the arrival of something new. It was the final falling away of the mental overlay that had been obscuring what was always already there.
+
+**What makes this radical for the reader:** they already have the physical presence. They cannot not have it. The body is always here. The only thing required is the mental absence. And the mental absence is not something to achieve — it is what remains when the compulsive program stops running.
+
+They are already halfway there. They have always been halfway there.
+
+*Possible home: Chapter 3 (The Switch), Chapter 5 (The Peace of Thought-Free), Chapter 10 (Living the Luxury) — as its simplest and most complete statement*
+
+---
+
+## The Practice Is Following the Commentary — As a Witness, Not a Believer
+
+To be in the present moment you have to notice when you're not. And noticing requires following the commentary just enough to catch it in the act. You have to be aware of the thought to see that it is a thought.
+
+So the practice is not the absence of commentary. It is a different relationship to it. You follow it — but as a witness, not as a believer. You hear it the way you hear rain. It's happening. You're not it.
+
+The paradox is precise: you have to be present enough to notice you're absent. You have to be aware enough to catch the unawareness. The practice requires exactly the capacity it is building.
+
+The commentary doesn't have to stop for the practice to work. It just has to be seen for what it is. A pattern. Not you. Not reality. Just the mind doing what minds do.
+
+The seeing is everything. The rest takes care of itself.
+
+*Possible home: Chapter 7 (Practicing the Switch)*
+
+---
 *Last updated: as insights arrive. Keep adding.*
