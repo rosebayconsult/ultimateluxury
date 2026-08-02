@@ -756,4 +756,29 @@ The energy will find its own way home.
 *Possible home: Chapter 6 (Why the Switch Feels So Hard), Chapter 7 (Practicing the Switch)*
 
 ---
+
+## Without Suppressing Does Not Mean Acting On It
+
+Without suppressing means without fighting it internally. Without telling yourself it is wrong, without generating shame, without the mental war of *I shouldn't want this.*
+
+The instruction: feel the sensation of desire in the body — the physical energy of it, not the fantasy — without acting on it and without condemning it. Be present with the raw sensation itself. Not the story around it. Not the images. Just the physical feeling as pure sensation.
+
+This is the middle path. Not indulgence. Not suppression. Witnessing.
+
+**In practice:**
+The desire arises. Instead of immediately following the fantasy or immediately fighting the feeling — pause. Bring attention to the physical sensation in the body. Breathe. Stay with the sensation as sensation. Not as desire for something. Just as energy. Just as aliveness.
+
+Sometimes it passes. Sometimes it intensifies. Sometimes it transforms into something else entirely — a kind of fullness, a warmth, a quiet. Sometimes none of that happens and the desire remains loud.
+
+Whatever happens — the pause has been practiced. The gap between the pull and the response has been practiced. That gap is the switch being built.
+
+**The action of masturbation is not the problem and not the goal.** The unconsciousness is what the practice is working with. The moment full awareness is brought to the desire — without story, without shame, without following the fantasy — the relationship to it has already changed.
+
+Conscious desire is completely different from compulsive desire.
+
+That is the whole teaching.
+
+*Possible home: Chapter 7 (Practicing the Switch), Chapter 6 (Why the Switch Feels So Hard)*
+
+---
 *Last updated: as insights arrive. Keep adding.*
