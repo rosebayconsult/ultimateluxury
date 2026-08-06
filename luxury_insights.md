@@ -1054,4 +1054,91 @@ The ten ox-herding pictures as the map — not a ladder to climb but a mirror to
 *Possible home: Chapter 7 (Practicing the Switch) — as its closing section*
 
 ---
+
+## Spontaneous Chandra Bhedi or Surya Bhedi — The Body Self-Regulating
+
+*From Ashish's own practice — pranayama happening by itself without initiation.*
+
+When chandra or surya bhedi happens spontaneously — without you initiating it — the body is self-regulating. The pranic system is making adjustments the conscious mind didn't order. Something deeper than the thinking mind is running a more intelligent program.
+
+Chandra bhedi — inhale left, exhale right — activates ida nadi, cools the system, draws energy inward.
+Surya bhedi — inhale right, exhale left — activates pingala, heats the system, moves energy outward.
+
+When these happen on their own it means the body's intelligence is operating more freely than before. The thinking mind's constant interference has reduced enough that the pranic body can do its own work.
+
+This is connected directly to VBT dharana 3 — awareness of prana moving in both nostrils simultaneously, meeting at the center, dissolving into the space between. Not a technique imposed on the breath. A refinement of listening to what the breath is already doing.
+
+**As a signpost of progress:** spontaneous pranayama means the practice is working at a level below thought. The body remembering something the mind had forgotten to let it do.
+
+*Possible home: Chapter 7 (Practicing the Switch) — signposts section*
+
+---
+
+## The Active Nostril — Definition
+
+The active nostril is the one through which inhalation is fuller and freer. The one doing the primary work of receiving breath. Not the one that is completely blocked — but the one that is dominant, open, receiving more prana.
+
+In chandra bhedi: inhale is left, exhale is right — left nostril is active, ida is dominant, left foot moves first.
+In surya bhedi: inhale is right, exhale is left — right nostril is active, pingala is dominant, right foot moves first.
+
+The inhale determines the dominant nadi. The inhalation is where life force enters and the nadi is activated. The body moves from the side that is receiving life.
+
+---
+
+## Daily Activities Aligned with Svara — Shiva Swarodaya Applied to Ordinary Life
+
+The deeper principle: every activity has a natural energetic quality — receptive or active, inward or outward, heating or cooling. The nostril tells you which energy is available right now. Aligning the activity with the available energy is not superstition. It is the most practical use of the body's own intelligence.
+
+**Morning and waking**
+Check the active nostril before opening your eyes. Look at the corresponding hand. Touch your face with it. Place that foot on the floor first. The day begins in alignment rather than automaticity.
+
+**Eating**
+Eat when the right nostril is active — pingala governs digestion, heat, metabolic fire. Left nostril active during eating dampens digestive fire. If you need to eat and the left is active, lie briefly on your left side to activate the right before sitting down to the meal.
+
+**On eating with the left hand when left nostril is active:** Swarodaya's principle is about the dominant nadi, not the hand. However — eating with the right hand when the right nostril is active creates double alignment. Both the nadi and the instrument of eating are in surya, solar, digestive mode. Eating with the left hand when the left nostril is active creates double ida activation — double cooling — which further dampens digestive fire. Not ideal for a main meal. The nostril is the primary signal. The hand is secondary.
+
+**Sleep**
+Sleep on the left side to keep the right nostril open — activates pingala subtly, keeps metabolic processes running, supports digestion of the evening meal. Sleeping on the right activates ida, cools the system, recommended for deep rest or when the nervous system is overheated or agitated.
+
+**Physical work and exercise**
+Right nostril dominant — pingala active — is the time for physical exertion, outdoor work, demanding tasks requiring strength and heat.
+
+**Creative and intellectual work**
+Left nostril dominant — ida active — supports creativity, imagination, receptive thinking, learning, artistic work, inward reflection. Time to write, read deeply, sit with difficult questions.
+
+**Communication**
+Right nostril dominant for assertive communication — presenting, negotiating, making requests, standing your ground. Left nostril dominant for listening, receiving, empathizing, being with someone in difficulty.
+
+**Medical treatment and healing**
+Receive treatment — medicine, massage, surgery — when the left nostril is active. The ida channel is receptive and the body is more open to receiving.
+
+**Beginning new projects**
+Right nostril active — surya, pingala, the outward moving energy — auspicious for beginning something requiring momentum and forward motion.
+
+**Spiritual practice and meditation**
+Left nostril dominant or both nostrils flowing equally — called *sushumna* — the central channel open. Sushumna is the rarest and most auspicious state. Both nostrils flowing equally means ida and pingala are balanced and the central channel activates. Optimal state for meditation. Many practitioners notice it at dawn and dusk — the transitional moments when the nostril naturally switches. That transition point, however brief, is sushumna. The VBT's dharana on the space between breaths points at this same central channel.
+
+**Travel and leaving home**
+Right foot first if right nostril active. Left foot first if left nostril active.
+
+**Meeting someone important**
+Step forward with the foot corresponding to the active nostril. The energy of the encounter is received more cleanly when body and nadi are aligned.
+
+**Financial transactions and agreements**
+Right nostril active — surya — recommended for transactions requiring clarity, decisiveness, outward exchange.
+
+**Bathing**
+Begin washing the side corresponding to the active nostril first.
+
+**Lying down to rest mid-day**
+Brief rest on the left side activates right nostril, keeps pingala running, prevents the grogginess of deep daytime sleep.
+
+**Sensing approaching weather or health changes**
+Unusual nostril patterns — wrong nostril active at the wrong time of day, or switching more frequently than normal — signal changes in health or environment before they manifest. The breath as a diagnostic instrument.
+
+**For the book:** Chapter 7 can show the reader that the switch is not just a meditation practice. It is a way of living. Every ordinary activity becomes an opportunity to be aligned or misaligned. And alignment is not effort — it is listening to what is already happening. The compulsive mind overrides all of this constantly, deciding what to do based on the clock and the to-do list, completely indifferent to the body's pranic intelligence. Swarodaya is the practice of consulting a more fundamental intelligence than the scheduling mind.
+
+*Possible home: Chapter 7 (Practicing the Switch) — as a complete practical section on living the switch in daily life*
+
+---
 *Last updated: as insights arrive. Keep adding.*
