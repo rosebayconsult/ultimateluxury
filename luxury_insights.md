@@ -1141,4 +1141,46 @@ Unusual nostril patterns — wrong nostril active at the wrong time of day, or s
 *Possible home: Chapter 7 (Practicing the Switch) — as a complete practical section on living the switch in daily life*
 
 ---
+
+## Breath Timing at Thresholds — An Intelligent Extension of Swarodaya
+
+*From a Swarodaya guru's podcast — and Ashish's own refinement of the principle.*
+
+**Right nostril active — pingala — surya — outward energy:**
+Stepping outside is already an outward movement. Pingala is the outward channel. The breath and the movement are already aligned. No special timing needed — the system is coherent as it is.
+
+**Left nostril active — ida — chandra — inward energy:**
+Here is a potential misalignment — moving outward into the world while energy flows inward. The refinement: inhale first through the active left nostril, filling completely, then step out on the exhale. Complete the inward movement fully, then release into the outward movement. Like drawing a bow fully before releasing the arrow.
+
+This has internal logic consistent with Swarodaya's principles. The classical text doesn't specify breath timing at thresholds explicitly — this is a lineage elaboration, transmitted orally, not in the written text. Which doesn't make it wrong. The living tradition in some ways exceeds what any single written version contains.
+
+**What the classical text does say clearly:** if about to do something requiring outward active energy and the left nostril is dominant — pause and change the nostril first. Lie on the left side briefly, press the left armpit, or close the left nostril with the finger. Activate the right. Then proceed.
+
+The breath timing at the threshold is a more subtle refinement — working with the moment of crossing rather than changing the nostril before it.
+
+*Possible home: Chapter 7 (Practicing the Switch) — Swarodaya daily practice section*
+
+---
+
+## Shiva Swarodaya — The Text, Its Variations, and Living Tradition
+
+**The root text:** The Shiva Swarodaya — also called Swar Shastra — is a Sanskrit dialogue between Shiva and Parvati, similar in structure to the VBT. Shiva reveals the science of breath to Parvati. Approximately 395 verses depending on the recension.
+
+**Why no single authoritative tika:** The text has been transmitted largely through oral lineages — guru to student — rather than written commentary traditions. This is why variations exist between teachers and why podcast teachings may differ from written versions. Both may be valid — different lineage elaborations of the same root system.
+
+**Key published versions:**
+
+*Swara Yoga: The Tantric Science of Brain Breathing* — Swami Muktibodhananda, Bihar School of Yoga. The most comprehensive modern treatment in English. Sanskrit verses, translation, extensive commentary from the Bihar lineage. Most widely available serious version.
+
+Swami Sivananda — wrote on Swarodaya from the Rishikesh tradition. Briefer, more accessible, less technically detailed.
+
+Several Hindi tikas from North Indian tantric lineages — Rajasthan and UP particularly — contain variations and elaborations not in the Bihar version.
+
+**Multiple recensions exist:** different verse counts, different ordering, some verses appearing in some manuscripts but not others. The living oral tradition preserves elaborations beyond any single written text.
+
+**For the book:** when referencing Swarodaya in Chapter 7, be honest about this — it is an ancient text transmitted through multiple lineages, variations exist, and the living tradition exceeds what any single written version contains. This honesty strengthens the teaching. It shows the reader this is a living system, not a dead scripture.
+
+*Possible home: Chapter 7 (Practicing the Switch) — as contextual grounding for the Swarodaya material*
+
+---
 *Last updated: as insights arrive. Keep adding.*
