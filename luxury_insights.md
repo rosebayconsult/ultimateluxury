@@ -1183,4 +1183,32 @@ Several Hindi tikas from North Indian tantric lineages — Rajasthan and UP part
 *Possible home: Chapter 7 (Practicing the Switch) — as contextual grounding for the Swarodaya material*
 
 ---
+
+## Practicing Svara Is a Way of Being Aware — Bringing the Wandering Mind Back to Now and Breath
+
+*Ashish's insight — the unifying principle that ties Swarodaya into the same practice as everything else.*
+
+Swarodaya is not a separate system sitting alongside the meditation practice. It is the same practice — presence, awareness, returning to now — distributed across every moment of the day through the vehicle of the breath.
+
+Every time you check the nostril you are doing three things simultaneously:
+
+**Returning to the body.** The nostril check requires physical sensation — you have to actually feel which side is open. That feeling is presence. You cannot check the nostril while being lost in thought. The checking itself interrupts the stream.
+
+**Returning to the breath.** The nostril is the breath. Checking the nostril is checking the breath. The same anchor as anapana, the same doorway as the VBT's breath gap dharanas. Different name, same territory.
+
+**Returning to now.** The nostril that is active right now tells you something about right now — this moment's energy, this moment's intelligence. It is by definition a present-moment practice. The nostril that was active an hour ago is irrelevant. Only now.
+
+Every threshold crossed — every door, every room, every transition in the day — becomes a bell. A return. A moment of checking in with the body rather than being carried forward by the mind's momentum.
+
+The monastery has a bell that calls the monks back to presence throughout the day. For the social practitioner, every threshold is that bell. Every nostril check is that bell. Not as discipline. As a living reminder woven into the structure of ordinary movement.
+
+The wandering mind gets a hundred small chances to return throughout a single day. Not just in the formal sitting. In the kitchen doorway. At the office entrance. Getting out of the car. Getting into bed.
+
+**A hundred returns a day compounds differently than one return in a morning sit.**
+
+This is the most practical teaching in the entire book. And it came from lived practice, not from any text.
+
+*Possible home: Chapter 7 (Practicing the Switch) — as the closing synthesis of the Swarodaya section, tying it back to the core practice of returning*
+
+---
 *Last updated: as insights arrive. Keep adding.*
