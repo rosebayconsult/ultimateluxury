@@ -1380,4 +1380,28 @@ Chapter 5 — *The Peace of Thought-Free* — should be written from inside this
 That quality — write from there.
 
 ---
+
+## Austerity in Daily Life — Tapas for the Common Person
+
+Austerity is not punishment. It is choosing mild discomfort over automatic comfort — creating the conditions where awareness has room to arise. Every small friction chosen consciously is a bell.
+
+**Body**
+Cold shower in the morning — even thirty seconds. Wakes the nervous system, interrupts comfort-seeking habit, activates the vagus nerve.
+Eating less than you want to — not dramatic fasting, just stopping before full. Creates space and lightness.
+Sleeping and waking at consistent times — discipline over the body's preference for convenience.
+Walking instead of taking the easier option when possible.
+
+**Speech**
+Saying less than you want to. Not every thought needs to be spoken. The gap between thought and speech is practice.
+Not complaining for one day — notice how often the impulse arises.
+
+**Mind**
+No phone for the first thirty minutes after waking. Let the mind be unoccupied before filling it.
+One thing at a time — not eating while scrolling, not walking while listening, not talking while thinking about something else.
+
+**The common thread:** sustainable for ordinary life. None require an ashram. They work precisely because they are woven into what is already happening.
+
+*Possible home: Chapter 7 (Practicing the Switch)*
+
+---
 *Last updated: as insights arrive. Keep adding.*
